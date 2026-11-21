@@ -1,0 +1,6 @@
+{
+  "name": "CRYPTEX",
+  "description": "Secure Digital Assets. Smarter Investing. A professional global crypto investment and digital-asset platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
